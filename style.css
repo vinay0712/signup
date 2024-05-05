@@ -1,0 +1,28 @@
+.card {
+    box-shadow: 0 4px 2px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card-header-color {
+    background-color: #1687D9;
+}
+
+body {
+    background-color: #E9F3FD;
+}
+
+.zoom-effect {
+    transition: transform 0.3s;
+}
+
+.zoom-effect:hover {
+    transform: scale(1.1);
+}
+.display-type{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+}
+.container{
+    height:85vh;
+    width:100%;
+}
